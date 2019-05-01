@@ -13,3 +13,11 @@ pip install argparse
 2. Generate Map by running the 3 scripts in 'galaxy-explorer\MapCreators' folder
 3. Run game by executing refactorGameTest.py
 
+#Game Controls
+
+W,A,S,D - To move
+Z - To enter/exit through a door
+Z - Picks up item
+i,k - opens inventory and skills
+Feature to click on inventory and skills and drag into action bar
+Q,E,R,F - Skills
