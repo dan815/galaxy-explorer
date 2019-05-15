@@ -10,7 +10,7 @@ pip install pickle,
 pip install time, 
 pip install random, 
 pip install argparse
-2. Generate map by running the 3 scripts in 'galaxy-explorer\MapCreators' folder
+2. Generate map by running the 3 scripts in 'galaxy-explorer' folder, mapCreator.py, map2Creator.py, map3Creator.py
 3. Run game by executing refactorGameTest.py
 
 #Game Controls
