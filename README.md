@@ -21,3 +21,4 @@ Z - Picks up item,
 i,k - opens inventory and skills,
 Q,E,R,F - Skills,
 **Additional features to click on inventory and skills and drag into action bar,
+ 
